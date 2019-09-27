@@ -18,6 +18,6 @@ from 7.09.19
 - [x] [Разъяснение оценки сложности «на пальцах» + тест на знание](https://ulearn.me/Course/complexity) (местами беда с терминами, но для практики отлично подходит)
 
 > [!NOTE]
-> A very useful resource where you can practice properly.
+> This is a NOTE
 
 - [x] [Поверхностное объяснение некоторых структур и алгоритмов](https://github.com/trekhleb/javascript-algorithms)
