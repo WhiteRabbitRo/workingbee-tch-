@@ -16,8 +16,5 @@ from 7.09.19
 - [ ] [Какие алгоритмы и структуры данных пригодятся, если вы хотите пройти интервью от гугл](https://github.com/jwasham/coding-interview-university)
 - [x] [Визуализация алгоритмов](http://algo-visualizer.jasonpark.me/) [или](https://visualgo.net)
 - [x] [Разъяснение оценки сложности «на пальцах» + тест на знание](https://ulearn.me/Course/complexity) (местами беда с терминами, но для практики отлично подходит)
-
-> [!NOTE]
-> This is a NOTE
-
+> A very useful resource where you can practice properly.
 - [x] [Поверхностное объяснение некоторых структур и алгоритмов](https://github.com/trekhleb/javascript-algorithms)
