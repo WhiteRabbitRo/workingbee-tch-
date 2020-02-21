@@ -24,3 +24,4 @@
 
 # Fundemental stuff
 - [ ] А. Кенин, Д. Колисниченко / Самоучитель Системного Администратора
+- [ ] [Ч. Петцольд / Код. Тайный язык информатики](https://github.com/WhiteRabbitRo/workingbee-tch-/blob/master/Literature/Kod_Tayny_yazyk_informatiki.pdf)
